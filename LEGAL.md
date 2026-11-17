@@ -16,3 +16,6 @@ License (read from its license file on 2026-11-16): **Apache-2.0**. Original lic
 - Bundled third-party parts keep their own licenses: CHECK them before a release.
 - What people make with the tool belongs to them; the tool's license does not cover its output.
 - No warranty beyond what the license says.
+
+## Parts NOT under the open license (left out of anything we offer)
+- `licenses-binary/LICENSE-unrar-license.txt`
